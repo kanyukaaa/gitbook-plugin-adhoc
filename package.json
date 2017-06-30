@@ -1,9 +1,9 @@
 {
-  "description": "Ad hoc plugin for GitBook",
+  "description": "When you don't want to create plugin to add some filters etc",
   "name": "gitbook-plugin-adhoc",
   "main": "index.js",
   "license": "MIT",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "homepage": "https://github.com/kanyukaaa/gitbook-plugin-adhoc",
   "repository": {
     "type": "git",
