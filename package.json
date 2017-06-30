@@ -1,8 +1,9 @@
 {
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "gitbook": "*"
   },
+  "url": "https://github.com/kanyukaaa/gitbook-plugin-adhoc",
   "name": "gitbook-plugin-adhoc"
 }
