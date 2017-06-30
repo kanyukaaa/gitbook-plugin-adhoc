@@ -1,9 +1,18 @@
 {
+  "description": "Ad hoc plugin for GitBook",
+  "name": "gitbook-plugin-adhoc",
   "main": "index.js",
+  "license": "MIT",
   "version": "1.0.1",
+  "homepage": "https://github.com/kanyukaaa/gitbook-plugin-adhoc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kanyukaaa/gitbook-plugin-adhoc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kanyukaaa/gitbook-plugin-adhoc/issues"
+  },
   "engines": {
     "gitbook": "*"
-  },
-  "url": "https://github.com/kanyukaaa/gitbook-plugin-adhoc",
-  "name": "gitbook-plugin-adhoc"
+  }
 }
